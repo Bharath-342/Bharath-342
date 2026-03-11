@@ -68,6 +68,20 @@ Kanban-style job tracking system with analytics dashboard.
 🔗 GitHub: https://github.com/Bharath-342/Job-Tracker
 
 ---
+### 🛒 Ecommerce REST API
+
+Backend API for an e-commerce platform supporting product management, authentication, and order processing.
+
+**Tech Stack:** Node.js, Express.js, MongoDB, REST API  
+**Features:**
+- User authentication and secure session management
+- Product and category management endpoints
+- Order processing and API-based data handling
+
+🔗 Live API: https://your-api-live-link.com  
+🔗 GitHub: https://github.com/Bharath-342/ecommerce-api
+
+
 
 ### 📌 GOTIT – Lost & Found Platform
 Web platform for reporting and recovering lost items with authentication and role-based access.
