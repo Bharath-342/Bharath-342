@@ -1,106 +1,112 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sai%20Bharath%20Mandalapu&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:141E30&height=220&section=header&text=Sai%20Bharath%20Mandalapu&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h2 align="center">🚀 Full Stack Developer | Data Science Enthusiast</h2>
+<h3 align="center">Full Stack Developer | Backend APIs | Data Science Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/bharath-mandalapu-a54255365">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://github.com/Bharath-342">
-    <img src="https://img.shields.io/github/followers/Bharath-342?label=GitHub&style=social" />
+    <img src="https://img.shields.io/github/followers/Bharath-342?style=for-the-badge">
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science (Data Science)  
-- 💡 Interested in **Full Stack Development, AI Tools, and Data Analytics**
-- ⚡ Building real-world projects using **React, Node.js, Python, and REST APIs**
-- 🚀 Passionate about creating scalable web applications and developer tools
+- 🎓 Computer Science (Data Science) student  
+- 🚀 Passionate about building **scalable web applications and backend APIs**
+- ⚙️ Experienced with **React, Node.js, Express, REST APIs, and databases**
+- 📊 Interested in **Data Analytics and AI-assisted development**
+- 💡 Love solving real-world problems with technology
 
 ---
 
-## 🛠 Tech Stack
+# 🧠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,js,python,java,mysql,mongodb,git,github,docker,vscode,tailwind,linux" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,js,python,java,mysql,mongodb,git,github,docker,linux,vscode,tailwind" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Bharath-342&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-342&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Bharath-342&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharath-342&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharath-342&theme=react-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharath-342&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+# 🚀 Featured Projects
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Bharath-342/Bharath-342/output/github-contribution-grid-snake.svg" />
-</p>
+## 📌 Job Application Tracker
+Kanban-style job management platform with analytics dashboard.
 
----
-
-## 🚀 Featured Projects
-
-### 📌 Job Application Tracker
-Kanban-style job tracking system with analytics dashboard.
-
-**Tech:** React, Context API, Tailwind, Vercel  
-🔗 Live: https://job-tracker-delta-eight.vercel.app  
-🔗 GitHub: https://github.com/Bharath-342/Job-Tracker
-
----
-### 🛒 Ecommerce REST API
-
-Backend API for an e-commerce platform supporting product management, authentication, and order processing.
-
-**Tech Stack:** Node.js, Express.js, MongoDB, REST API  
+**Tech Stack:** React, Context API, Tailwind CSS  
 **Features:**
-- User authentication and secure session management
-- Product and category management endpoints
-- Order processing and API-based data handling
+- Application pipeline tracking (Applied → Interview → Offer)
+- Analytics dashboard with charts
+- Multi-user login and session handling
+- Deployment using Vercel
 
-🔗 Live API: https://your-api-live-link.com  
-🔗 GitHub: https://github.com/Bharath-342/ecommerce-api
+🔗 Live Demo  
+https://job-tracker-delta-eight.vercel.app  
 
-
-
-### 📌 GOTIT – Lost & Found Platform
-Web platform for reporting and recovering lost items with authentication and role-based access.
-
----
-
-### 📌 Resume Parser using NLP
-Python-based system that extracts and ranks resumes against job descriptions.
+🔗 GitHub Repository  
+https://github.com/Bharath-342/Job-Tracker
 
 ---
 
-## 📈 Profile Views
+## 🛒 Ecommerce REST API (Backend Project)
+
+Backend API for an e-commerce platform enabling product management, authentication, and order processing.
+
+**Tech Stack:** Node.js, Express.js, MongoDB  
+**Features:**
+- Secure user authentication
+- Product & category management endpoints
+- Order processing system
+- RESTful API architecture
+
+🔗 GitHub Repository  
+https://github.com/Bharath-342/ecommerce-api
+
+---
+
+## 📌 Resume Parsing System
+Automated resume analysis using NLP.
+
+**Tech:** Python, NLP, Data Processing
+
+---
+
+## 📌 GOTIT – Lost & Found Platform
+Web platform that allows users to report and recover lost items.
+
+---
+
+# 📊 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Bharath-342&label=Profile%20views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Bharath-342&label=Profile%20Views&color=blue&style=flat"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=120&section=footer"/>
 </p>
